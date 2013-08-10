@@ -9,7 +9,7 @@
    "content_scripts" : [
     {
       "matches" : ["http://www.google.co.in/*", "https://www.google.co.in/*"],
-      "js" : [ "contentscript.js" ],
+      "js" : [ "mousetrap.js","contentscript.js" ],
       "run_at" : "document_idle",
       "all_frames" : true
     }
