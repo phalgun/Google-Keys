@@ -1,4 +1,4 @@
-Google-Keys
+Google Keys
 ===========
 
 Chrome extension to enable keyboard shortcuts for Google search results. 
@@ -6,18 +6,18 @@ Chrome extension to enable keyboard shortcuts for Google search results.
 How to use
 ----------
 
-Ctrl+Shift+1 opens the first link of the results page in a new tab in the background. 
-It is just like using Ctrl+mouse click. 
+**_Ctrl+Shift+1_** opens the first link of the results page in a new tab in the background.
+It is just like using **_Ctrl+mouse click_**
 
-Alt+Shift+1 opens the first link of the results page in the same tab. 
-It is just like using your mouse click on a search result. 
+**_Alt+Shift+1_** opens the first link of the results page in the same tab.
+It is just like using your **_mouse click_** on a search result.
 
 Similary, replace the number with the desired result position.
-If you want to open the 3rd link in a new tab, use Ctrl+Shift+3
 
-If you want to open the 5th link in the same tab, use Alt+Shift+5
+If you want to open the 3rd link in a new tab, use **_Ctrl+Shift+3_**
+If you want to open the 5th link in the same tab, use **_Alt+Shift+5_**
 
-In general, Ctrl+Shift+<number> and Alt+Shift+<number>
+**Ctrl+Shift+number** and **Alt+Shift+number** are your friends! 
 
 How to install
 --------------
@@ -28,10 +28,10 @@ How to install
 - Click Load unpacked extension to pop up a file-selection dialog.
 - Navigate to the directory in which the extracted extension files live, and select it. 
 
-Happy browsing! 
+**_Happy browsing!_**
 
-PS : I will package the extension and publish it on the Chrome store once I add more goodness to the extension. Features like customizable shortcut combinations and an easy on/off switch to toggle the shortcuts are in the pipeline. 
+**PS** : I will package the extension and publish it on the Chrome store once I add more goodness to the extension. Features like customizable shortcut combinations and an easy on/off switch to toggle the shortcuts are in the pipeline. 
 
-If you do like the extension, send me some love! 
-http://phalgun.in
+If you do like the extension, send me some love!  
+http://phalgun.in  
 @phalgun_g
