@@ -2,13 +2,14 @@
   "name" : "GoogleKeys",
   "version" : "1.0.0",
   "description" : "Keyboard shortcuts for google search results",
-  // "background" : {
-  //   "scripts": ["background.js"]
-  // },
   "permissions" : [ "tabs" ],
    "content_scripts" : [
     {
-      "matches" : ["http://www.google.co.in/*", "https://www.google.co.in/*"],
+      "matches" : ["http://www.google.co.in/*", "https://www.google.co.in/*",
+                   "http://www.google.com/*", "https://www.google.com/*",
+                    "http://www.google.co.us/*", "https://www.google.co.us/*",
+                    "http://www.google.co.uk/*", "https://www.google.co.uk/*"
+                  ],
       "js" : [ "mousetrap.js","contentscript.js" ],
       "run_at" : "document_idle",
       "all_frames" : true
