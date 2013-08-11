@@ -3,31 +3,31 @@ function setupKeyBindings() {
 
 	// using string concatenation and a loop oddly doesn't seem to work.	
 
-	Mousetrap.bind('ctrl+shift+1', function () {openNewBackgroundTab(1)});
+	Mousetrap.bind('mod+shift+1', function () {openNewBackgroundTab(1)});
 	Mousetrap.bind('alt+shift+1', function () {openNewBackgroundTab(1, false)});
 
-	Mousetrap.bind('ctrl+shift+2', function () {openNewBackgroundTab(2)});
+	Mousetrap.bind('mod+shift+2', function () {openNewBackgroundTab(2)});
 	Mousetrap.bind('alt+shift+2', function () {openNewBackgroundTab(2, false)});
 
-	Mousetrap.bind('ctrl+shift+3', function () {openNewBackgroundTab(3)});
+	Mousetrap.bind('mod+shift+3', function () {openNewBackgroundTab(3)});
 	Mousetrap.bind('alt+shift+3', function () {openNewBackgroundTab(3, false)});
 
-	Mousetrap.bind('ctrl+shift+4', function () {openNewBackgroundTab(4)});
+	Mousetrap.bind('mod+shift+4', function () {openNewBackgroundTab(4)});
 	Mousetrap.bind('alt+shift+4', function () {openNewBackgroundTab(4, false)});
 
-	Mousetrap.bind('ctrl+shift+5', function () {openNewBackgroundTab(5)});
+	Mousetrap.bind('mod+shift+5', function () {openNewBackgroundTab(5)});
 	Mousetrap.bind('alt+shift+5', function () {openNewBackgroundTab(5, false)});
 
-	Mousetrap.bind('ctrl+shift+6', function () {openNewBackgroundTab(6)});
+	Mousetrap.bind('mod+shift+6', function () {openNewBackgroundTab(6)});
 	Mousetrap.bind('alt+shift+6', function () {openNewBackgroundTab(6, false)});
 
-	Mousetrap.bind('ctrl+shift+7', function () {openNewBackgroundTab(7)});
+	Mousetrap.bind('mod+shift+7', function () {openNewBackgroundTab(7)});
 	Mousetrap.bind('alt+shift+7', function () {openNewBackgroundTab(7, false)});
 
-	Mousetrap.bind('ctrl+shift+8', function () {openNewBackgroundTab(8)});
+	Mousetrap.bind('mod+shift+8', function () {openNewBackgroundTab(8)});
 	Mousetrap.bind('alt+shift+8', function () {openNewBackgroundTab(8, false)});
 
-	Mousetrap.bind('ctrl+shift+9', function () {openNewBackgroundTab(9)});
+	Mousetrap.bind('mod+shift+9', function () {openNewBackgroundTab(9)});
 	Mousetrap.bind('alt+shift+9', function () {openNewBackgroundTab(9, false)});
 
 }
