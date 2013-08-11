@@ -14,7 +14,7 @@ It is just like using your **_mouse click_** on a search result.
 
 Similary, replace the number with the desired result position.
 
-If you want to open the 3rd link in a new tab, use **_Ctrl+Shift+3_**
+If you want to open the 3rd link in a new tab, use **_Ctrl+Shift+3_**.  
 If you want to open the 5th link in the same tab, use **_Alt+Shift+5_**
 
 **Ctrl+Shift+number** and **Alt+Shift+number** are your friends! 
