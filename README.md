@@ -6,18 +6,19 @@ Chrome extension to enable keyboard shortcuts for Google search results.
 How to use
 ----------
 
-**_Ctrl+Shift+1_** opens the first link of the results page in a new tab in the background.
-It is just like using **_Ctrl+mouse click_**
+**_Ctrl+Shift+1_** (or **_Cmd+Shift+1_** in Mac)  opens the first link of the results page in a new tab in the background.
+It is just like using **_Ctrl+mouse click_** (or **_Cmd+mouse click_** in Mac)
 
 **_Alt+Shift+1_** opens the first link of the results page in the same tab.
 It is just like using your **_mouse click_** on a search result.
 
 Similary, replace the number with the desired result position.
 
-If you want to open the 3rd link in a new tab, use **_Ctrl+Shift+3_**.  
+If you want to open the 3rd link in a new tab, use **_Ctrl+Shift+3_**.  (**_Cmd+Shift+3_** in Mac)
 If you want to open the 5th link in the same tab, use **_Alt+Shift+5_**
 
 **Ctrl+Shift+number** and **Alt+Shift+number** are your friends! 
+For users on Mac, use **Cmd+Shift+number**
 
 How to install
 --------------
